@@ -1,0 +1,20 @@
+.block1 {
+    background: #433d3d;
+    color: #fff;
+}
+
+.block2 {
+    background: #f74344;
+    width: 100px;
+    height: 100px;
+}
+
+.block3 {
+    background: #c59ef9;
+    width: 300px;
+}
+
+.element1 {
+    background: #7443b8;
+    color: #fff;
+}

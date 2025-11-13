@@ -1,0 +1,29 @@
+.firdt-text {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: italic;
+    color: chocolate;
+}
+
+.second-text {
+    text-decoration: line-through;
+}
+
+.third-text {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.fourth-text {
+    word-spacing: 30px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+}
+
+.fifth-text {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    /* border-bottom: 4px double; */
+    text-decoration-style: double;
+}

@@ -1,0 +1,30 @@
+.block {
+    background-color: #e9e0e0;
+    height: 500px;
+    overflow: auto;
+    border-radius: 30px 0 0 0;
+    border: 1px groove #a7a796;
+    padding: 10px;
+}
+
+.block-1_text,
+.block-2_text,
+.block-3_text,
+.block-4_text,
+.block-5_text,
+.block-6_text,
+.block-7_text,
+.block-8_text,
+.block-9_text,
+.block-10_text,
+.block-11_text {
+    display: inline-block;
+    font-size: 14px;
+    background-color: #b39e5d;
+    width: 200px;
+    height: 150px;
+    padding: 10px 15px 15px 20px;
+    margin: 10px 5px 1px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 10px 1px inset #535148;
+}

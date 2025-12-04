@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 320px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px #d8d8d8;
+}
+
+.your-date {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #000;
+}
+
+.container input[type="text"],
+.container input[type="email"],
+.container input[type="age"],
+.container input[type="tel"],
+.container textarea {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px 10px;
+    border: 1px solid #6c6a6a;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.container textarea {
+    width: 100%;
+    min-heigth: 40px;
+    max-heigth: 200px;
+    resize: vertical;
+}
+
+.submit-button {
+    padding: 10px 14px;
+    border: 1px solid #6c6a6a;
+    background: #eeecec;
+    color: #000;
+    border-radius: 4px;
+    font-weigth: 600;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background: #9c9797;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+    margin: 0 0 12px 0;
+}
+

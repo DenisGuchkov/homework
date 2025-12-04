@@ -49,6 +49,10 @@ label {
     resize: vertical;
 }
 
+.checkbox {
+    cursor: pointer;
+}
+
 .submit-button {
     padding: 10px 14px;
     border: 1px solid #6c6a6a;
@@ -68,4 +72,5 @@ fieldset {
     padding: 0;
     margin: 0 0 12px 0;
 }
+
 
